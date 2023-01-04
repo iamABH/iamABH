@@ -24,10 +24,6 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=iamABH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
 <img src="https://github-readme-stats.vercel.app/api?username=iamABH&show_icons=true&hide_border=true&theme=tokyonight" />
 </div>
 
